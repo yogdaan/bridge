@@ -10,9 +10,6 @@
 
 module.exports = (robot) ->
 
-  robot.hear /(.*)/, (res) ->
-    res.send res.envelope.user.name + ' : ' + res.match[0]
-
   # robot.hear /badger/i, (res) ->
   #   res.send "Badgers? BADGERS? WE DON'T NEED NO STINKIN BADGERS"
   #
