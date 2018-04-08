@@ -1,0 +1,15 @@
+{
+    "name": "Yogdaan-Gitter-Bot",
+    "description": "Bridges for chat client using Hubot",
+    "repository": "https://github.com/yogdaan/bridge/gitter",
+    "keywords": [
+        "yogdaan",
+        "gitterBot",
+        "CoffeeScript"
+    ],
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        }
+    ]
+}
