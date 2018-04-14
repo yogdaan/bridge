@@ -1,1 +1,2 @@
-web: bin/hubot -a campfire
+web: HUBOT_GITTER2_TOKEN=<token> ./bin/hubot -a gitter2 && node keep.js
+

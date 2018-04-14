@@ -20,6 +20,6 @@
     "hubot-shipit": "^0.2.1"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "6.x.x"
   }
 }
