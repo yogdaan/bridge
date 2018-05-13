@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/yogdaan/Artworks/blob/master/BRIDGE.png" width="350"/>
+</p>
+
+ 
+  Yogi Bot currently acts as a Bridge Between Telegram and Gitter. It connects both the channels together. So the messages in Telegram will be mirrored in Gitter and vice versa. The profit is "People who doesnt have phone to use Telegram can use Gitter!! and it benefits them".
+ In future Yogi bot will be connected to many channels and will bring the world into a small village!!
 # yogi
 
 yogi is a chat bot built on the [Hubot][hubot] framework. It was
